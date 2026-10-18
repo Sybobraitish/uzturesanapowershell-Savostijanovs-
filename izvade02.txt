@@ -1,0 +1,10 @@
+Nosaukums: chrome; ID: 9236; AtmiЕ†a: 271,8 MB
+Nosaukums: Code; ID: 11416; AtmiЕ†a: 317,4 MB
+Nosaukums: chrome; ID: 5604; AtmiЕ†a: 322,2 MB
+Nosaukums: steamwebhelper; ID: 8536; AtmiЕ†a: 325,3 MB
+Nosaukums: MsMpEng; ID: 4504; AtmiЕ†a: 332,1 MB
+Nosaukums: Memory Compression; ID: 1692; AtmiЕ†a: 336,0 MB
+Nosaukums: Code; ID: 13820; AtmiЕ†a: 357,9 MB
+Nosaukums: chrome; ID: 11180; AtmiЕ†a: 377,8 MB
+Nosaukums: Discord; ID: 11616; AtmiЕ†a: 446,0 MB
+Nosaukums: chrome; ID: 3044; AtmiЕ†a: 579,3 MB
