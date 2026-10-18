@@ -1,0 +1,19 @@
+Datora nosaukums: DESKTOP-5ACCPVG
+OperД
+tДЃjsistДma: Майкрософт Windows 10 Домашняя
+OperД
+tДЃjsistДmas bЕ«vДjuma
+numurs:
+19045
+
+Write-Output
+PowerShell
+versija:
+
+Major  Minor  Build  Revision
+-----  -----  -----  --------
+5      1      19041  6456
+
+Write-Output
+PaЕЎreizДjais datums un laiks: 10/18/2026 12:30:41
+DarbojoЕЎos procesu skaits: 212
