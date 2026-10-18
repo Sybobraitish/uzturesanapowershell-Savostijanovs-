@@ -1,0 +1,6 @@
+Disks: C:
+Kopajais izmers: 330.85 GB
+Briva vieta: 111.35 GB
+Disks: V:
+Kopajais izmers: 600 GB
+Briva vieta: 265.56 GB

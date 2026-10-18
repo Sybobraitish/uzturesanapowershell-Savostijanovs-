@@ -1,0 +1,10 @@
+DarbojoЕЎos servisu skaits: 102
+ApturД
+to
+servisu
+skaits:
+178
+Write-Output Abu
+grupu
+kopДjais skaits: 280
+Visu servisu skaits: 280

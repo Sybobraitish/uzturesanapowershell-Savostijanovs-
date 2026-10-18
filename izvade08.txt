@@ -1,0 +1,9 @@
+Pirmais veids: Get-Service
+Servisa nosaukums: Spooler
+Servisa statuss: Running
+Izpildes laiks: 38.9846 ms
+
+Otrais veids: Get-CimInstance
+Servisa nosaukums: Spooler
+Servisa statuss: Running
+Izpildes laiks: 431.0207 ms

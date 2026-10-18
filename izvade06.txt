@@ -1,0 +1,2 @@
+Draiveru skaits CSV fail: 28
+CSV fails saglabats: draiveri.csv

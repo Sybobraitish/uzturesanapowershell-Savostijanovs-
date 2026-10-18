@@ -1,0 +1,8 @@
+Name       Status      MacAddress        LinkSpeed
+----       ------      ----------        ---------
+Ethernet   Up          30-9C-23-44-47-3C 1 Gbps     
+Ethernet 2 Up          0A-00-27-00-00-03 1 Gbps   
+
+
+TД«kla adapteru skaits: 2
+InformДЃcija saglabДЃta failДЃ adapteri.csv
